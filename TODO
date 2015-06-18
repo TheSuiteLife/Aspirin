@@ -1,0 +1,7 @@
+Make videos dim at the end
+
+Add the settings menu
+    - add the settings_manager to it
+    - make everything a listener to respond to it
+    - add a ui
+        - have two forms, one in game and one on the main menu
